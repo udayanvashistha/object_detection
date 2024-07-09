@@ -1,0 +1,1 @@
+model = YOLO('Yolo-Weights/yolov8n.pt')
